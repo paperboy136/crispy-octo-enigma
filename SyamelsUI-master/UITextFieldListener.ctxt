@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ newText
+comment0.target=void\ textFieldPerformed(java.lang.String,\ java.lang.String)
+comment0.text=\ Respond\ to\ text\ field\ events.\r\n\ The\ arguments\ are\ the\ name\ of\ the\ button\ and\ the\ string\ that\ the\ user\ entered.\r\n
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=action\ x\ y
+comment0.target=void\ mousePerformed(java.lang.String,\ double,\ double)
+comment0.text=\ Respond\ to\ mouse\ actions.\r\n\ The\ value\ of\ action\ may\ be\ "pressed",\ "released",\ "clicked",\ "doubleclicked",\ "moved",\ or\ "dragged".\r\n\ x\ and\ y\ are\ the\ coordinates\ of\ where\ the\ mouse\ action\ happened.\r\n
+numComments=1

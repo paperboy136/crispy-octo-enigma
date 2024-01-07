@@ -1,0 +1,41 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=syamelsTextArea(int,\ int)
+comment1.params=str
+comment1.target=void\ outputString(java.lang.String)
+comment1.text=\=\=\=\=\ OUTPUT\ \=\=\=\=\=
+comment10.params=
+comment10.target=double\ nextDouble()
+comment11.params=
+comment11.target=boolean\ nextBoolean()
+comment12.params=
+comment12.target=boolean\ hasNext()
+comment13.params=
+comment13.target=boolean\ hasNextLine()
+comment14.params=
+comment14.target=boolean\ hasNextInt()
+comment15.params=
+comment15.target=boolean\ hasNextDouble()
+comment16.params=
+comment16.target=boolean\ hasNextBoolean()
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\ \ \ \ public\ void\ outputString(String\ str){\r\n\ \ \ \ try{\r\n\ \ \ \ ((SyamelsDocument)getDocument()).doWriteLock();\r\n\ \ \ \ outputting\ \=\ true;\r\n\ \ \ \ insert(str,\ inputPoint);\r\n\ \ \ \ if\ (getCaretPosition()<inputPoint)\ setCaretPosition(inputPoint);\r\n\ \ \ \ outputting\ \=\ false;\r\n\ \ \ \ }\ finally\ {\ ((SyamelsDocument)getDocument()).doWriteUnlock();}\r\n}
+comment3.params=
+comment3.target=void\ clearInputBuffer()
+comment3.text=\=\=\=\=\ INPUT\ Buffer\ \=\=\=\=\=
+comment4.params=
+comment4.target=void\ ensureInputToken()
+comment4.text=\ Ensures\ that\ InputScanner\ has\ a\ non-empty\ Scanner.\r\n\ \ First\ tries\ to\ get\ more\ text\ from\ the\ inputBuffer\ stringBuffer\r\nIf\ nothing\ there,\ then\ will\ wait\ until\ there\ is.
+comment5.params=
+comment5.target=void\ ensureInput()
+comment6.params=needsToken
+comment6.target=void\ ensureInput(boolean)
+comment7.params=
+comment7.target=java.lang.String\ next()
+comment7.text=\=\=\=\=\ INPUT\ Methods\ \=\=\=\=\=
+comment8.params=
+comment8.target=java.lang.String\ nextLine()
+comment9.params=
+comment9.target=int\ nextInt()
+numComments=17

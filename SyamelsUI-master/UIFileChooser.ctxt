@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UIFileChooser()
+comment0.text=Constructor\ is\ private\ to\ prevent\ user\ from\ constructing\ an\ instance\ of\ this\ class
+comment1.params=
+comment1.target=java.lang.String\ open()
+comment1.text=\ Opens\ a\ file\ chooser\ dialog\ box\ to\ allow\ the\ user\ to\ select\ an\ existing\ file\ to\ open.\r\nReturns\ a\ string\ that\ is\ the\ name\ of\ the\ file,\ or\ null\ if\ the\ user\ cancelled
+comment2.params=title
+comment2.target=java.lang.String\ open(java.lang.String)
+comment2.text=\ Opens\ a\ file\ chooser\ dialog\ box\ with\ a\ specified\ title.\r\n\ \ \ \ Allows\ the\ user\ to\ select\ an\ existing\ file\ to\ open.\r\nReturns\ a\ string\ that\ is\ the\ name\ of\ the\ file,\ or\ null\ if\ the\ user\ cancelled
+comment3.params=
+comment3.target=java.lang.String\ save()
+comment3.text=\ Opens\ a\ file\ chooser\ dialog\ box\ to\ allow\ the\ user\ to\ select\ a\ file\ (possibly\ new)\ to\ save\ to.\r\nReturns\ a\ string\ that\ is\ the\ name\ of\ the\ file,\ or\ null\ if\ the\ user\ cancelled
+comment4.params=title
+comment4.target=java.lang.String\ save(java.lang.String)
+comment4.text=\ Opens\ a\ file\ chooser\ dialog\ box\ with\ a\ specified\ title.\r\n\ \ \ \ Allows\ the\ user\ to\ select\ a\ file\ (possibly\ new)\ to\ save\ to.\r\nReturns\ a\ string\ that\ is\ the\ name\ of\ the\ file,\ or\ null\ if\ the\ user\ cancelled
+numComments=5

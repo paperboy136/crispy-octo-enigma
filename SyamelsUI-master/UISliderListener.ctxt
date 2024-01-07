@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ value
+comment0.target=void\ sliderPerformed(java.lang.String,\ double)
+comment0.text=\ Respond\ to\ slider\ events.\r\n\ The\ arguments\ are\ the\ name\ of\ the\ slider,\ and\ the\ new\ value\ the\ user\ just\ entered.\r\n
+numComments=1
